@@ -1,0 +1,12 @@
+# requirements.txt
+# Optimizador de Portafolio Cripto — IA SI404 TB1 2026
+# Instalar con: pip install -r requirements.txt
+
+numpy>=1.24.0
+matplotlib>=3.7.0
+requests>=2.28.0
+
+# Opcional para el trabajo final (bots de trading reales):
+# ccxt>=4.0.0          # Conexión a exchanges (Binance, Bybit, etc.)
+# pandas>=2.0.0        # Análisis de datos avanzado
+# scipy>=1.11.0        # Optimización adicional
